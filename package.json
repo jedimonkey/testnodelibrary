@@ -9,6 +9,9 @@
   },
   "author": "Marcus Collier <develop@mjcollier.id.au>",
   "license": "MIT",
+  "bin": {
+    "testnode": "bin/testnode.js"
+  },
   "dependencies": {
     "babel-cli": "^6.18.0",
     "babel-plugin-transform-runtime": "^6.15.0",
